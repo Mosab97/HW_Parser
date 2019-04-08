@@ -14,7 +14,6 @@ namespace Parser
             Parser parser = new Parser(@"D:\file.txt");
             parser.expr();
             //0Console.WriteLine(text);
-            public int MyProperty { get; set; }
     }
     }
     class Parser
